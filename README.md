@@ -10,4 +10,6 @@
 
 🔧 Tech Stack: React.js | CSS | OpenWeatherMap API
 
+# App_look-(Screenshot) 
+
 ![image](https://github.com/user-attachments/assets/dc67902a-abaf-4b29-83ae-92f00339536b)
