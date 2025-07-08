@@ -1,0 +1,6 @@
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    box-shadow:0rem 0 .2rem black ;
+}
